@@ -1,0 +1,21 @@
+
+##EC2에서 해야할 일
+
+1. EC2 생성하기
+2. 자바17설치하기
+
+
+
+## github 에서 해야할일
+
+secret 변수 만들기
+깃헙->settings-> secrets -> Repository secrets
+
+
+
+APPLICATION_PROPERTIES
+EC2_HOST
+EC2_PRIVATE_KEY
+EC2_USERNAME
+
+
